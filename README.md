@@ -30,26 +30,25 @@
 ## 📂 Repository Structure
 
 ```text
-📦 coding-solutions/
-├── leetcode/
-│   ├── easy/
-│   ├── medium/
-│   └── hard/
-├── hackerrank/
-│   └── easy/
-│       ├── find-second-maximum-number-in-a-list/
-│       ├── finding-the-percentage/
-│       ├── nested-list/
-│       ├── py-hello-world/
-│       ├── py-if-else/
-│       ├── python-arithmetic-operators/
-│       ├── python-division/
-│       ├── python-lists/
-│       ├── python-loops/
-│       ├── python-print/
-│       └── tuples/
-├── codechef/
-└── gfg/
+## 📂 Repository Structure
+
+```text
+📦 hack_dsa/
+└── hackerrank/
+    └── easy/
+        ├── find-second-maximum-number-in-a-list/
+        ├── finding-the-percentage/
+        ├── nested-list/
+        ├── py-hello-world/
+        ├── py-if-else/
+        ├── python-arithmetic-operators/
+        ├── python-division/
+        ├── python-lists/
+        ├── python-loops/
+        ├── python-print/
+        └── tuples/
+```
+
 ```
 
 ---
