@@ -15,27 +15,39 @@
 ## 📊 Stats
 
 | Difficulty | Solved |
-|:---:|:---:|
-| 🟢 Easy | **0** |
-| 🟡 Medium | **8** |
-| 🔴 Hard | **0** |
-| **Total** | **8** |
+| :--------: | :----: |
+|   🟢 Easy  |  **8** |
+|  🟡 Medium |  **0** |
+|   🔴 Hard  |  **0** |
+|  **Total** |  **8** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
-|:---:|:---:|
-| Python | **8** |
+| :------: | :-------: |
+|  Python  |   **8**   |
 
 ## 📂 Repository Structure
 
-```
+```text
 📦 coding-solutions/
 ├── leetcode/
 │   ├── easy/
 │   ├── medium/
 │   └── hard/
 ├── hackerrank/
+│   └── easy/
+│       ├── find-second-maximum-number-in-a-list/
+│       ├── finding-the-percentage/
+│       ├── nested-list/
+│       ├── py-hello-world/
+│       ├── py-if-else/
+│       ├── python-arithmetic-operators/
+│       ├── python-division/
+│       ├── python-lists/
+│       ├── python-loops/
+│       ├── python-print/
+│       └── tuples/
 ├── codechef/
 └── gfg/
 ```
