@@ -2,9 +2,9 @@
 
 # 🧠 Coding Solutions
 
-![Total Solved](https://img.shields.io/badge/Total_Solved-8-blue?style=for-the-badge)
-![Streak](https://img.shields.io/badge/Streak-3_days-orange?style=for-the-badge)
-![Last Synced](https://img.shields.io/badge/Last_Synced-8--26--2026-green?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Total_Solved-9-blue?style=for-the-badge)
+![Streak](https://img.shields.io/badge/Streak-4_days-orange?style=for-the-badge)
+![Last Synced](https://img.shields.io/badge/Last_Synced-8--27--2026-green?style=for-the-badge)
 
 > 🚀 Auto-synced by [**PushMyCode**](https://github.com/PushMyCode-HQ) — solve it, forget it, it's on GitHub.
 
@@ -15,42 +15,35 @@
 ## 📊 Stats
 
 | Difficulty | Solved |
-| :--------: | :----: |
-|   🟢 Easy  |  **8** |
-|  🟡 Medium |  **0** |
-|   🔴 Hard  |  **0** |
-|  **Total** |  **8** |
+|:---:|:---:|
+| 🟢 Easy | **0** |
+| 🟡 Medium | **9** |
+| 🔴 Hard | **0** |
+| **Total** | **9** |
 
 ## 🛠️ Languages
 
 | Language | Solutions |
-| :------: | :-------: |
-|  Python  |   **8**   |
+|:---:|:---:|
+| Python | **9** |
 
 ## 📂 Repository Structure
 
-```text
-## 📂 Repository Structure
-
-```text
-📦 hack_dsa/
-└── hackerrank/
-    └── easy/
-        ├── find-second-maximum-number-in-a-list/
-        ├── finding-the-percentage/
-        ├── nested-list/
-        ├── py-hello-world/
-        ├── py-if-else/
-        ├── python-arithmetic-operators/
-        ├── python-division/
-        ├── python-lists/
-        ├── python-loops/
-        ├── python-print/
-        └── tuples/
 ```
+📦 coding-solutions/
+├── leetcode/
+│   ├── easy/
+│   ├── medium/
+│   └── hard/
+├── hackerrank/
+├── codechef/
+└── gfg/
+```
+
+---
 
 <div align="center">
 
-*Last updated: 2026-08-26* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
+*Last updated: 2026-08-27* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
