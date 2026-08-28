@@ -27,27 +27,17 @@ Print the capitalized string, $S$.
 
 ## Solution
 
-**Language:** C++  
+**Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-27T05:04:38.877Z  
+**Submitted:** 2026-08-28T15:15:47.659Z  
 
-```cpp
-#!/bin/python3
+```py
 
-# Complete the solve function below.
-def solve(s):
-if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
-    s = input()
-
-    result = solve(s)
-
-    fptr.write(result + '\n')
-
-    fptr.close()
-    return s.title()
+# Complete the solve function below.
+def solve(s):
+     return re.sub(r'(^|\s)([a-z])', lambda match: match.group(1) + match.group(2).upper(), s)
 
 ```
 
